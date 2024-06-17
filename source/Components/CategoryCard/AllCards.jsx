@@ -24,6 +24,7 @@ const AllCards = () => {
       <EditCategory />
       <AddCategory />
 
+
       <section className={styles.section}>
         {cards}
         <NoCard />

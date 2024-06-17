@@ -13,8 +13,8 @@ const Header = () => {
 
       <section className={styles.header}>
         <div className={styles.message}>
-          <h1>Olá! Senti Saudades 😀</h1>
-          <h2>Sua carteira está esperando por você</h2>
+          <h1>Olá! Bem vindo ao projeto</h1>
+          <h2>Carteira Digital (teste tecnico)</h2>
         </div>
         <div className={styles.avatar}>
           <Image
